@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
-<h3 align="center">A Frontend student at College Kristiania in Norway</h3>
+<h3 align="center">A second year Frontend student at Kristiania in Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanderns&label=Profile%20views&color=0e75b6&style=flat" alt="sanderns" /> </p>
 
