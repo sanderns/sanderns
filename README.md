@@ -2,7 +2,7 @@
 <h3 align="center">I am currently studying at Kristiania to acquire a bachelors degree in frontend development.</h3>
 
 <h1 align="left">Here are some of the tools I've been using:</h1>
-<h3 align="left">Programming Languages:</h3>
+<h2 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
