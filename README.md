@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sander 👋</h1>
 <h3 align="center">I am currently studying at Kristiania to acquire a bachelors degree in frontend development.</h3>
 
+<h1 align="left">Here are some of the tools I've been using:</h1>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
