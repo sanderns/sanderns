@@ -84,20 +84,6 @@
   </a> 
 </p>
 
-<h3 align="left">Platform as a Service:</h3>
-<p align="left">
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">Testing:</h3>
-<p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-</p>
-
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
