@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sander 👋</h1>
-<h3 align="center">A frontend developer studying at Kristiania</h3>
+<h3 align="center">I am currently studying at Kristiania to acquire a bachelors degree in frontend development.</h3>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
